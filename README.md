@@ -27,3 +27,10 @@
     NLTK (Natural Language Toolkit),
     XGBoost,
     Tkinter (for GUI),
+  
+* **Download the dataset**
+
+You can download the dataset required for training and testing from this link:
+https://www.kaggle.com/datasets/ashfakyeafi/spam-email-classification
+
+  
