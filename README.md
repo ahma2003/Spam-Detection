@@ -6,14 +6,15 @@
 
 
  -Message Classification:Classify messages as spam or not spam.
+ 
  -Multiple ML Algorithms:
-
   K-Nearest Neighbors (KNN),
   Multinomial Naive Bayes,
   Random Forest,
   Stochastic Gradient Descent (SGD),
   Extreme Gradient Boosting (XGBoost),
   Logistic Regression,
+  
 -Graphical User Interface: User-friendly GUI for inputting messages and displaying results.
 * **Technologies Used**
 
